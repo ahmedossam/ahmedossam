@@ -1,6 +1,7 @@
-<!-- ===== VFX GIF HEADER ===== -->
+
+<!-- ===== VFX ANIMATED BANNER ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=170&section=header&text=Ahmed%20Osama%20Mohamed&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Artist%20%7C%20Realtime%20VFX%20Artist&descAlignY=60" />
 </p>
 
 <h3 align="center" style="color:#7e52a0;">
