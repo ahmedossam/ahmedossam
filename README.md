@@ -1,95 +1,86 @@
-<!-- 🔥 BANNER -->
+<!-- ===== VFX GIF HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=250&section=header&text=Ahmed%20Osama%20Mohamed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Artist%20%7C%20Realtime%20VFX%20Artist&descAlignY=55" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Ahmed Osama Mohamed</h2>
-<h3 align="center">Technical Artist & Realtime VFX Artist from Egypt 🇪🇬</h3>
+<h3 align="center" style="color:#7e52a0;">
+Hi 👋 I'm Ahmed Osama Mohamed — Technical Artist & Realtime VFX Artist from Egypt 🇪🇬
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Technical+Artist;Realtime+VFX+Artist;Shader+%26+Tools+Developer;Graphics+Programming+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7e52a0&center=true&vCenter=true&width=650&lines=Technical+Artist;Realtime+VFX+Artist;Shader+%26+Tools+Developer;Graphics+Programming" />
 </p>
 
 ---
 
-## 💼 About Me
+## 🧠 Skills
 
-🎮 I am a **Technical Artist** specialized in:
-- Realtime VFX (Niagara / Unity VFX Graph)  
-- Custom shaders & materials (HLSL / GLSL)  
-- Tools for artists & production pipelines  
-- Graphics programming & real-time rendering  
-- Game engine optimization & workflows  
-
-I enjoy blending **art + code** to build high-performance real-time visuals.
-
----
-
-## 🧠 Skills & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35"/>
+<div align="center" style="background-color:#2d3142; padding:10px; border-radius:12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="26"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="26"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="26"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="26"/>
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub (Auto Dark / Light)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedossam&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedossam&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ahmedossam&show_icons=true&theme=tokyonight&title_color=7e52a0&icon_color=7e52a0" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ahmedossam&show_icons=true&theme=default&title_color=7e52a0&icon_color=7e52a0" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedossam&show_icons=true&title_color=7e52a0&icon_color=7e52a0" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedossam&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🚀 What You'll Find Here
-
-- 🎆 Realtime VFX experiments  
-- 🧪 Shader & graphics programming projects  
-- ⚙️ Technical art tools  
-- 🕹️ Game prototypes  
-- 📦 Utility & automation scripts  
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedossam&layout=compact&theme=tokyonight&title_color=7e52a0" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedossam&layout=compact&theme=default&title_color=7e52a0" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedossam&layout=compact&title_color=7e52a0" />
+</picture>
 
 ---
 
-## 🌍 Connect With Me
+## 🎮 Project Showcase
+
+<table style="background-color:#4f5d75; border-radius:12px;">
+<tr>
+<td width="33%" align="center">
+  <img src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/main/assets/vfx1.png" width="100%" style="border-radius:10px;"/>
+  <br/><b style="color:#7e52a0;">Realtime VFX</b><br/>Niagara & Unity VFX Graph
+</td>
+<td width="33%" align="center">
+  <img src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/main/assets/shader1.png" width="100%" style="border-radius:10px;"/>
+  <br/><b style="color:#7e52a0;">Shaders</b><br/>HLSL / GLSL / Materials
+</td>
+<td width="33%" align="center">
+  <img src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/main/assets/tools1.png" width="100%" style="border-radius:10px;"/>
+  <br/><b style="color:#7e52a0;">Tools</b><br/>Artist Pipelines & Automation
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Links
 
 <div align="center">
-  <a href="https://www.youtube.com/@ahmedusama5643" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
+  <a href="https://www.artstation.com/ahmedosama9886">
+    <img src="https://img.shields.io/badge/Portfolio-7e52a0?style=for-the-badge&logo=artstation&logoColor=ffffff"/>
   </a>
-  <a href="https://www.twitch.tv/warriorsfx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35"/>
+  <a href="https://www.linkedin.com/in/ahmed-osama-mohamed-800a4a1a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-4f5d75?logo=linkedin&logoColor=ffffff&style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-osama-mohamed-800a4a1a1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://ko-fi.com/warriorfx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&color=F16061&logoColor=white&style=for-the-badge" height="35"/>
+  <a href="https://www.youtube.com/@ahmedusama5643">
+    <img src="https://img.shields.io/badge/Youtube-2d3142?logo=youtube&logoColor=ffffff&style=for-the-badge"/>
   </a>
 </div>
 
@@ -98,25 +89,24 @@ I enjoy blending **art + code** to build high-performance real-time visuals.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ahmedossam/ahmedossam/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedossam/ahmedossam/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedossam/ahmedossam/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-# 🇪🇬 نبذة بالعربي
+## 🇪🇬 بالعربي
 
-## 👋 أنا أحمد أسامة محمد  
-🎮 Technical Artist و Realtime VFX Artist
+أنا **أحمد أسامة محمد**  
+🎮 Technical Artist و Realtime VFX Artist  
 
 متخصص في:
-- المؤثرات البصرية داخل محركات الألعاب (Niagara / Unity VFX Graph)  
-- كتابة الـ Shaders والـ Materials  
+- Realtime VFX داخل Unreal و Unity  
+- كتابة Shaders و Materials  
 - بناء أدوات للفنانين  
 - Graphics Programming  
-- تطوير وتحسين الـ Pipelines  
 
 بحب أدمج **الفن + البرمجة** علشان أطلع مؤثرات قوية وسريعة في الأداء.
-
----
-
-⭐ If you like my work, feel free to star my repositories and follow my journey!
