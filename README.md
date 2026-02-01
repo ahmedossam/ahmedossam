@@ -54,16 +54,20 @@ Hi 👋 I'm Ahmed Osama Mohamed — Technical Artist & Realtime VFX Artist from 
 <table style="background-color:#4f5d75; border-radius:12px;">
 <tr>
 <td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/main/assets/vfx1.png" width="100%" style="border-radius:10px;"/>
-  <br/><b style="color:#7e52a0;">Realtime VFX</b><br/>Niagara & Unity VFX Graph
+  <a href="https://github.com/ahmedossam/Graphics_Engine" target="_blank">
+    <br/><b style="color:#7e52a0;">Shaders</b><br/>HLSL / GLSL / Materials
+  </a>
 </td>
 <td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/main/assets/shader1.png" width="100%" style="border-radius:10px;"/>
-  <br/><b style="color:#7e52a0;">Shaders</b><br/>HLSL / GLSL / Materials
+  <a href="https://github.com/ahmedossam/Maya_script" target="_blank">
+    <img src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/main/assets/shader1.png" width="100%" style="border-radius:10px;"/>
+    <br/><b style="color:#7e52a0;">Shaders</b><br/>HLSL / GLSL / Materials
+  </a>
 </td>
 <td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/ahmedossam/ahmedossam/main/assets/tools1.png" width="100%" style="border-radius:10px;"/>
-  <br/><b style="color:#7e52a0;">Tools</b><br/>Artist Pipelines & Automation
+  <a href="https://github.com/ahmedossam/Tool" target="_blank">
+    <br/><b style="color:#7e52a0;">Tools</b><br/>Artist Pipelines & Automation
+  </a>
 </td>
 </tr>
 </table>
